@@ -1,0 +1,7 @@
+Room Details
+
+Room 101 - Single Room - Rs. 500
+Room 102 - Double Room - Rs. 1000
+Room 103 - Deluxe Room - Rs. 1500
+
+All rooms are available for booking.
